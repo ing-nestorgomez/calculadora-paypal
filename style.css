@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
+
+body {
+  color: #666872;
+  font-size: 1.2em;
+  line-height:1.8em !important;
+  font-family: 'Jura', sans-serif  !important;
+}
+
+.form-group{
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #96baff;
+  font-family: 'Audiowide', sans-serif  !important;
+}
+
+.titulo{
+  align-content: center;
+}
+
+#msj{
+  font-size: 0.6em;
+  color: #7eb1f3;
+}
